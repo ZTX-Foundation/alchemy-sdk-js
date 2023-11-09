@@ -52,6 +52,7 @@ export const EthersNetwork = {
   [Network.ARB_MAINNET]: 'arbitrum',
   [Network.ARB_RINKEBY]: 'arbitrum-rinkeby',
   [Network.ARB_GOERLI]: 'arbitrum-goerli',
+  [Network.ARB_SEPOLIA]: 'arbitrum-sepolia',
   [Network.MATIC_MAINNET]: 'matic',
   [Network.MATIC_MUMBAI]: 'maticmum',
   [Network.ASTAR_MAINNET]: 'astar-mainnet',
